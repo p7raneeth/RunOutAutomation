@@ -1,2 +1,2 @@
 # RunOutAutomation
-Building an AI solution that can consume a Video in real time and make a decision, whether a Batsman is Runout or Not
+Creating an AI-based system capable of analyzing live video feed to determine whether a batsman has been run out or not in Cricket.
